@@ -1,5 +1,5 @@
 {
-  "name": "gulp-base",
+  "name": "gulp-start-pack",
   "version": "1.0.0",
   "description": "This is base gulp for project",
   "main": "index.js",
